@@ -60,3 +60,4 @@ On my way to become a Frontend Developer 🤓
 * HTML and CSS Basics - [Нетология](https://netology.ru)  
 * "JavaScript/Front-end. Stage 0" - [RSSchool](https://app.rs.school) (in progress)  
 * HTML, CSS, JS, Git - video on YouTube  
+
